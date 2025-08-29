@@ -1,0 +1,7 @@
+# Ignore HTML reports
+report.html
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
