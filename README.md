@@ -50,7 +50,7 @@ Build HTML Dashboard → generate_report.py
 
 ⚙️ Installation
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-sales-intelligence.git
+git clone https://github.com/SushminiS/Ecommerce_Sales_Intelligence_Reports.git
 cd ecommerce-sales-intelligence
 
 # Create virtual environment
